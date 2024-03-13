@@ -45,8 +45,8 @@ The dataset is composed of different features about items and search queries. In
   
   ![image](https://github.com/Qehbr/Home-Depot-Item-Relevance-DS-Project/assets/49615282/d2ce40f2-7b0b-4b78-88ce-2abf3bfa4f20)
 *  Train/Validation graphs of RMSE/MAE of best experiment:
-  ![image](https://github.com/Qehbr/Home-Depot-Item-Relevance-DS-Project/assets/49615282/8c5d8379-f668-43df-b406-b553f4126e17)
-  ![image](https://github.com/Qehbr/Home-Depot-Item-Relevance-DS-Project/assets/49615282/9314e3a6-33c5-427e-8222-29135f424dfd)
+  ![image](https://github.com/Qehbr/Home-Depot-Item-Relevance-DS-Project/assets/49615282/db0fd09d-e0ae-4460-aa1f-8f5d6d842159)
+  ![image](https://github.com/Qehbr/Home-Depot-Item-Relevance-DS-Project/assets/49615282/707c773b-74b0-4e0a-a5df-9cccce9eee6b)
 * Results:
   
   ![image](https://github.com/Qehbr/Home-Depot-Item-Relevance-DS-Project/assets/49615282/ace4a80f-1b15-48af-9132-fd2ce6bd3ff0)
@@ -56,8 +56,8 @@ The dataset is composed of different features about items and search queries. In
   
 Same as in characted-based model
 *  Train/Validation graphs of RMSE/MAE of best experiment:
-  ![image](https://github.com/Qehbr/Home-Depot-Item-Relevance-DS-Project/assets/49615282/6461e613-6379-47b0-b8d5-efd35baf679f)
-  ![image](https://github.com/Qehbr/Home-Depot-Item-Relevance-DS-Project/assets/49615282/e8f60782-2646-4f5e-aa05-4c87fd400380)
+  ![image](https://github.com/Qehbr/Home-Depot-Item-Relevance-DS-Project/assets/49615282/2bee1039-856b-46bc-b52a-79d4f94a5e8e)
+  ![image](https://github.com/Qehbr/Home-Depot-Item-Relevance-DS-Project/assets/49615282/0fb56af0-8f67-444c-8e78-c815388da0a9)
 * Results:
   
   ![image](https://github.com/Qehbr/Home-Depot-Item-Relevance-DS-Project/assets/49615282/fccbe15a-9a78-4384-825e-47818f667e85)
@@ -80,8 +80,8 @@ Same as in characted-based model but with 2 LSTM based on input
   
   ![image](https://github.com/Qehbr/Home-Depot-Item-Relevance-DS-Project/assets/49615282/4352a4b1-8529-464b-8473-efe43bce5c5d)
 *  Train/Validation graphs of RMSE/MAE of best experiment:
-  ![image](https://github.com/Qehbr/Home-Depot-Item-Relevance-DS-Project/assets/49615282/8e06b0cd-d523-453b-9693-582f5a1e0bcb)
-  ![image](https://github.com/Qehbr/Home-Depot-Item-Relevance-DS-Project/assets/49615282/1bd33554-d8d2-46da-bac3-f5ad46d7befa)
+  ![image](https://github.com/Qehbr/Home-Depot-Item-Relevance-DS-Project/assets/49615282/23e0f4e0-e0ea-4073-8902-44002998c858)
+  ![image](https://github.com/Qehbr/Home-Depot-Item-Relevance-DS-Project/assets/49615282/0e4a1ce2-61a4-4aa6-a8fe-31093e2bff04)
 * Results:
   
   ![image](https://github.com/Qehbr/Home-Depot-Item-Relevance-DS-Project/assets/49615282/37e6639d-d57e-4955-b12c-5dbecd56296a)
